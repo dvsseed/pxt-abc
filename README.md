@@ -1,6 +1,6 @@
-# robotbit
+# abc
 
-Extension for Kittenbot Robotbit
+Extension for TaiBit
 
 ## License
 
@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-robotbit=github:Kittenbot/pxt-robotbit
+robotbit=github:dvsseed/pxt-abc
 ```
